@@ -1,0 +1,12 @@
+.search{
+  width: 400px;
+  margin: 20px auto;
+}
+
+.search .btn-primary{
+  color: #fff;
+}
+
+.search .btn-primary:focus{
+  box-shadow: 0px 0px 0px 0px;
+}
